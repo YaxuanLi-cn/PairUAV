@@ -1,4 +1,4 @@
-<h1 align="center">UAVs in Multimedia: Capturing the World from a New Perspective (UAVM 2026)</h1>
+<h1 align="center">Last-Meter Precision Navigation for UAVs: A Diffusion-Refined\\ Aerial Visual Servoing Approach</h1>
 
 
 <p align="center">
