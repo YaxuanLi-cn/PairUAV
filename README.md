@@ -1,4 +1,4 @@
-<h1 align="center">Last-Meter Precision Navigation for UAVs: A Diffusion-Refined\\ Aerial Visual Servoing Approach</h1>
+<h1 align="center">Last-Meter Precision Navigation for UAVs: A Diffusion-Refined Aerial Visual Servoing Approach</h1>
 
 
 <p align="center">
