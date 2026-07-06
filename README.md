@@ -254,7 +254,7 @@ __pycache__/
         </a >
         <br><sub>Multi-Weather Extension on the Fly<br>Pattern Recognition'24</sub>
         <br><br>
-        <a href="https://github.com/wtyhub/MuseNet">< img src="https://img.shields.io/github/stars/wtyhub/MuseNet.svg?style=social&label=Star" alt="GitHub stars"></a >
+        <a href="https://github.com/wtyhub/MuseNet"><img src="https://img.shields.io/github/stars/wtyhub/MuseNet.svg?style=social&label=Star" alt="GitHub stars"></a >
       </td>
       <td align="center" width="33%">
         <a href="https://github.com/MultimodalGeo/GeoText-1652">
@@ -263,7 +263,7 @@ __pycache__/
         </a >
         <br><sub>Dense Text Extension<br>ECCV'24</sub>
         <br><br>
-        <a href="https://github.com/MultimodalGeo/GeoText-1652">< img src="https://img.shields.io/github/stars/MultimodalGeo/GeoText-1652.svg?style=social&label=Star" alt="GitHub stars"></a >
+        <a href="https://github.com/MultimodalGeo/GeoText-1652"><img src="https://img.shields.io/github/stars/MultimodalGeo/GeoText-1652.svg?style=social&label=Star" alt="GitHub stars"></a >
       </td>
     </tr>
   </table>
@@ -281,7 +281,7 @@ __pycache__/
         </a >
         <br><sub>Road Maps as Free Geometric Priors </sub>
         <br><br>
-        <a href="https://github.com/YsongF/GeoFuse">< img src="https://img.shields.io/github/stars/YsongF/GeoFuse.svg?style=social&label=Star" alt="GitHub stars"></a >
+        <a href="https://github.com/YsongF/GeoFuse"><img src="https://img.shields.io/github/stars/YsongF/GeoFuse.svg?style=social&label=Star" alt="GitHub stars"></a >
       </td>
       <td align="center" width="25%">
         <a href="https://github.com/JT-Sun/UAVReason">
@@ -290,7 +290,7 @@ __pycache__/
         </a >
         <br><sub>Aerial Scene Reasoning & Generation Benchmark</sub>
         <br><br>
-        <a href="https://github.com/JT-Sun/UAVReason">< img src="https://img.shields.io/github/stars/JT-Sun/UAVReason.svg?style=social&label=Star" alt="GitHub stars"></a >
+        <a href="https://github.com/JT-Sun/UAVReason"><img src="https://img.shields.io/github/stars/JT-Sun/UAVReason.svg?style=social&label=Star" alt="GitHub stars"></a >
       </td>
       <td align="center" width="25%">
         <a href="https://github.com/HaoDot/Video2BEV-Open">
@@ -299,7 +299,7 @@ __pycache__/
         </a >
         <br><sub>Drone Video → Bird's-Eye-View</sub>
         <br><br>
-        <a href="https://github.com/HaoDot/Video2BEV-Open">< img src="https://img.shields.io/github/stars/HaoDot/Video2BEV-Open.svg?style=social&label=Star" alt="GitHub stars"></a >
+        <a href="https://github.com/HaoDot/Video2BEV-Open"><img src="https://img.shields.io/github/stars/HaoDot/Video2BEV-Open.svg?style=social&label=Star" alt="GitHub stars"></a >
       </td>
       <td align="center" width="25%">
         <a href="https://github.com/YaxuanLi-cn/PairUAV">
@@ -308,7 +308,7 @@ __pycache__/
         </a >
         <br><sub>Paired UAV Data for Matching</sub>
         <br><br>
-        <a href="https://github.com/YaxuanLi-cn/PairUAV">< img src="https://img.shields.io/github/stars/YaxuanLi-cn/PairUAV.svg?style=social&label=Star" alt="GitHub stars"></a >
+        <a href="https://github.com/YaxuanLi-cn/PairUAV"><img src="https://img.shields.io/github/stars/YaxuanLi-cn/PairUAV.svg?style=social&label=Star" alt="GitHub stars"></a >
       </td>
     </tr>
   </table>
