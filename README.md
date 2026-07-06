@@ -245,7 +245,7 @@ __pycache__/
         </a >
         <br><sub>Multi-view Multi-source Benchmark<br>Ground · Drone · Satellite · ACM MM'20</sub>
         <br><br>
-        <a href="https://github.com/layumi/University1652-Baseline">< img src="https://img.shields.io/github/stars/layumi/University1652-Baseline.svg?style=social&label=Star" alt="GitHub stars"></a >
+        <a href="https://github.com/layumi/University1652-Baseline"><img src="https://img.shields.io/github/stars/layumi/University1652-Baseline.svg?style=social&label=Star" alt="GitHub stars"></a >
       </td>
       <td align="center" width="33%">
         <a href="https://github.com/wtyhub/MuseNet">
