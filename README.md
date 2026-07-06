@@ -226,7 +226,6 @@ wandb/
 __pycache__/
 *.pyc
 ```
-
 ## 🔗 Ecosystem
 
 <p align="center"><i>Explore our ecosystem for UAV & Spatial Intelligence 🚁</i></p>
@@ -236,48 +235,19 @@ __pycache__/
 <p align="center"><b>🎓 The University-1652 Family</b></p>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <a href="https://github.com/layumi/University1652-Baseline">
-          <h3>🎓</h3>
-          <b>University-1652</b>
-        </a>
-        <br>
-        <sub>Multi-view Multi-source Benchmark<br>Ground · Drone · Satellite · ACM MM'20</sub>
-        <br><br>
-        <a href="https://github.com/layumi/University1652-Baseline">
-          <img src="https://img.shields.io/github/stars/layumi/University1652-Baseline.svg?style=social&label=Star" alt="GitHub stars">
-        </a>
-      </td>
 
-      <td align="center" width="33%">
-        <a href="https://github.com/wtyhub/MuseNet">
-          <h3>🌦️</h3>
-          <b>University-WX</b>
-        </a>
-        <br>
-        <sub>Multi-Weather Extension on the Fly<br>Pattern Recognition'24</sub>
-        <br><br>
-        <a href="https://github.com/wtyhub/MuseNet">
-          <img src="https://img.shields.io/github/stars/wtyhub/MuseNet.svg?style=social&label=Star" alt="GitHub stars">
-        </a>
-      </td>
+<a href="https://github.com/layumi/University1652-Baseline">🎓 <b>University-1652</b></a><br>
+Multi-view Multi-source Benchmark · Ground · Drone · Satellite · ACM MM'20<br>
+<img src="https://img.shields.io/github/stars/layumi/University1652-Baseline.svg?style=social&label=Star"><br><br>
 
-      <td align="center" width="33%">
-        <a href="https://github.com/MultimodalGeo/GeoText-1652">
-          <h3>💬</h3>
-          <b>GeoText-1652</b>
-        </a>
-        <br>
-        <sub>Dense Text Extension<br>ECCV'24</sub>
-        <br><br>
-        <a href="https://github.com/MultimodalGeo/GeoText-1652">
-          <img src="https://img.shields.io/github/stars/MultimodalGeo/GeoText-1652.svg?style=social&label=Star" alt="GitHub stars">
-        </a>
-      </td>
-    </tr>
-  </table>
+<a href="https://github.com/wtyhub/MuseNet">🌦️ <b>University-WX</b></a><br>
+Multi-Weather Extension on the Fly · Pattern Recognition'24<br>
+<img src="https://img.shields.io/github/stars/wtyhub/MuseNet.svg?style=social&label=Star"><br><br>
+
+<a href="https://github.com/MultimodalGeo/GeoText-1652">💬 <b>GeoText-1652</b></a><br>
+Dense Text Extension · ECCV'24<br>
+<img src="https://img.shields.io/github/stars/MultimodalGeo/GeoText-1652.svg?style=social&label=Star">
+
 </div>
 
 ---
@@ -285,67 +255,27 @@ __pycache__/
 <p align="center"><b>🚀 New Open-Source Releases</b></p>
 
 <div align="center">
-  <table>
-    <tr>
 
-      <td align="center" width="25%">
-        <a href="https://github.com/YsongF/GeoFuse">
-          <h3>🛰️</h3>
-          <b>GeoFuse</b>
-        </a>
-        <br>
-        <sub>Road Maps as Free Geometric Priors</sub>
-        <br><br>
-        <a href="https://github.com/YsongF/GeoFuse">
-          <img src="https://img.shields.io/github/stars/YsongF/GeoFuse.svg?style=social&label=Star" alt="GitHub stars">
-        </a>
-      </td>
+<a href="https://github.com/YsongF/GeoFuse">🛰️ <b>GeoFuse</b></a><br>
+Road Maps as Free Geometric Priors<br>
+<img src="https://img.shields.io/github/stars/YsongF/GeoFuse.svg?style=social&label=Star"><br><br>
 
-      <td align="center" width="25%">
-        <a href="https://github.com/JT-Sun/UAVReason">
-          <h3>🧠</h3>
-          <b>UAVReason</b>
-        </a>
-        <br>
-        <sub>Aerial Scene Reasoning & Generation Benchmark</sub>
-        <br><br>
-        <a href="https://github.com/JT-Sun/UAVReason">
-          <img src="https://img.shields.io/github/stars/JT-Sun/UAVReason.svg?style=social&label=Star" alt="GitHub stars">
-        </a>
-      </td>
+<a href="https://github.com/JT-Sun/UAVReason">🧠 <b>UAVReason</b></a><br>
+Aerial Scene Reasoning & Generation Benchmark<br>
+<img src="https://img.shields.io/github/stars/JT-Sun/UAVReason.svg?style=social&label=Star"><br><br>
 
-      <td align="center" width="25%">
-        <a href="https://github.com/HaoDot/Video2BEV-Open">
-          <h3>🗺️</h3>
-          <b>Video2BEV</b>
-        </a>
-        <br>
-        <sub>Drone Video → Bird's-Eye-View</sub>
-        <br><br>
-        <a href="https://github.com/HaoDot/Video2BEV-Open">
-          <img src="https://img.shields.io/github/stars/HaoDot/Video2BEV-Open.svg?style=social&label=Star" alt="GitHub stars">
-        </a>
-      </td>
+<a href="https://github.com/HaoDot/Video2BEV-Open">🗺️ <b>Video2BEV</b></a><br>
+Drone Video → Bird's-Eye-View<br>
+<img src="https://img.shields.io/github/stars/HaoDot/Video2BEV-Open.svg?style=social&label=Star"><br><br>
 
-      <td align="center" width="25%">
-        <a href="https://github.com/YaxuanLi-cn/PairUAV">
-          <h3>🚁</h3>
-          <b>PairUAV</b>
-        </a>
-        <br>
-        <sub>Paired UAV Data for Matching</sub>
-        <br><br>
-        <a href="https://github.com/YaxuanLi-cn/PairUAV">
-          <img src="https://img.shields.io/github/stars/YaxuanLi-cn/PairUAV.svg?style=social&label=Star" alt="GitHub stars">
-        </a>
-      </td>
+<a href="https://github.com/YaxuanLi-cn/PairUAV">🚁 <b>PairUAV</b></a><br>
+Paired UAV Data for Matching<br>
+<img src="https://img.shields.io/github/stars/YaxuanLi-cn/PairUAV.svg?style=social&label=Star">
 
-    </tr>
-  </table>
 </div>
 
 ---
 
 <p align="center">
-  ⭐ If you find our projects helpful, a <b>star</b> is the best support! ⭐
+⭐ If you find our projects helpful, a <b>star</b> is the best support! ⭐
 </p>
