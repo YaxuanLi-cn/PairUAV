@@ -17,6 +17,14 @@
 
 <hr />
 
+<p align="center">
+  <img src="figures/structure.webp" alt="Framework Overview" width="90%">
+</p>
+
+<p align="center">
+  <i>Overview of the proposed diffusion-refined aerial visual servoing framework.</i>
+</p>
+
 ## Project Structure
 
 ```text
