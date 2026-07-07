@@ -1,6 +1,9 @@
 <h1 align="center">Last-Meter Precision Navigation for UAVs: A Diffusion-Refined Aerial Visual Servoing Approach</h1>
 
 <p align="center">
+  <a href="https://arxiv.org/abs/2607.04352">
+    <img src="https://img.shields.io/badge/arXiv-2607.04352-b31b1b?style=for-the-badge" alt="arXiv">
+  </a>
   <a href="https://huggingface.co/datasets/YaxuanLi/UAVM_2026_test">
     <img src="https://img.shields.io/badge/Dataset-HF%20Data-d8b04c?style=for-the-badge" alt="Dataset">
   </a>
@@ -13,7 +16,6 @@
 </p>
 
 <hr />
-
 ## Project Structure
 
 ```text
