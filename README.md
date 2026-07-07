@@ -18,11 +18,13 @@
 <hr />
 
 <p align="center">
-  <img src="figures/structure.webp" alt="Framework Overview" width="90%">
+  <img src="figures/motivation.webp" alt="Last-Meter Precision Navigation" width="90%">
 </p>
 
 <p align="center">
-  <i>Overview of the proposed diffusion-refined aerial visual servoing framework.</i>
+  <i>
+    From coarse aerial localization to fine-grained last-meter navigation: a diffusion-refined visual servoing framework for precise UAV landing and delivery.
+  </i>
 </p>
 
 ## Project Structure
