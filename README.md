@@ -330,3 +330,32 @@ __pycache__/
 <p align="center">
   ⭐ If you find our projects helpful, a <b>star</b> is the best support! ⭐
 </p >
+
+## 📖 Citation
+
+If you find this project useful, please consider citing our work:
+
+### arXiv Preprint
+
+```bibtex
+@misc{li2026lastmeterprecisionnavigationuavs,
+      title={Last-Meter Precision Navigation for UAVs: A Diffusion-Refined Aerial Visual Servoing Approach}, 
+      author={Yaxuan Li and Jiarui Zeng and Shaofei Huang and Zhedong Zheng},
+      year={2026},
+      eprint={2607.04352},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2607.04352}, 
+}
+```
+
+### ACM Multimedia Workshop
+
+```bibtex
+@inproceedings{deuser2026UVA,
+  title={The 4th Workshop on UAVs in Multimedia: Capturing the World from a New Perspective},
+  author={Deuser, Fabian and Li, Yaxuan and Wang, Tingyu and Shi, Yujiao and Bößendörfer, Anna and Huang, Shaofei and Pan, Xiao and Zheng, Zhedong and Zimmermann, Roger},
+  booktitle={Proceedings of the 34th ACM International Conference on Multimedia Workshop},
+  year={2026}
+}
+```
